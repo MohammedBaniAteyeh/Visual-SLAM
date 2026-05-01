@@ -4,5 +4,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_subdirectory(lib)
 add_subdirectory(ch2)
+add_subdirectory(ch3)
+
+
 
 
